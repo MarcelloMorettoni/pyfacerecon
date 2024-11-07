@@ -19,3 +19,10 @@ conda install numpy=1.21.5
 ```
 ### 2) Place photos of yourself
 Collect a few photos of yourself and place them in a directory (e.g., images_of_me/). Make sure the images are clear and from different angles if possible. The more the better. It should work with three or four as minimum. Keep them close to the face and with a small size. 
+
+### 3) run face_reck.py
+Should open a window like this:
+
+![Example Image](facerecon.gif)
+
+You can ctype 'q' for quit.
