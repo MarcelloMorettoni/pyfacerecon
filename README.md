@@ -25,4 +25,4 @@ Should open a window like this:
 
 ![Example Image](facerecon.gif)
 
-You can ctype 'q' for quit.
+You can type 'q' for quit.
